@@ -30,6 +30,8 @@
 
 ## Output:
 
+![Screenshot 2024-01-02 180953](https://github.com/rdivyav/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/148604723/0c99f933-fc42-4dab-98d6-12ec23469797)
+
 ### Name:Divya R V
 ### Register Number:23014030
 
